@@ -8,9 +8,11 @@
 	<description>Java class library for obtaining geolocation information of an IP address.</description>
 	<developers>
 		<developer>
-
-			<name>Zsófia Györke</name>
+			<id>gyzsofia</id>
+			<name>Györke Zsófia</name>
 			<email>durke2240@gmail.com</email>
+			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
 	</developers>
 
